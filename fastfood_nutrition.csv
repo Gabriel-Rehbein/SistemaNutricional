@@ -1,0 +1,51 @@
+Company,Category,Product,Energy (kCal),Protein (g),Carbohydrates (g),Sugar (g),Fiber (g),Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg)
+McDonalds,Burger,Big Mac,550,25,45,9,3,30,10,1,80,970
+McDonalds,Burger,Quarter Pounder,520,30,42,10,3,26,12,1.5,95,1140
+McDonalds,Chicken,McChicken,400,14,39,5,2,21,3.5,0,40,560
+McDonalds,Dessert,McFlurry Oreo,510,10,80,60,1,16,9,0.5,35,260
+McDonalds,Breakfast,Egg McMuffin,310,17,30,3,2,13,6,0,250,770
+Burger King,Burger,Whopper,657,28,49,11,4,40,12,1.5,90,980
+Burger King,Burger,Bacon King,1150,61,49,10,3,79,31,3,240,2150
+Burger King,Chicken,Chicken Fries,430,20,28,1,2,27,5,0,55,850
+Burger King,Dessert,Hershey Pie,320,5,40,30,1,15,8,0,30,270
+Burger King,Breakfast,Croissanwich,370,18,30,4,1,22,9,0.5,190,910
+Subway,Sandwich,Turkey Sandwich,280,18,46,6,5,4,1,0,35,760
+Subway,Sandwich,Italian BMT,410,20,46,8,5,16,6,0,50,1260
+Subway,Salad,Chicken Salad,220,20,12,3,4,8,2,0,45,540
+Subway,Sandwich,Tuna Sandwich,480,20,44,5,5,25,4,0,40,580
+Subway,Wrap,Chicken Caesar Wrap,730,38,55,4,4,34,10,0.5,95,1480
+KFC,Fried Chicken,Original Recipe Chicken Breast,390,39,11,0,1,21,4,0,120,1190
+KFC,Fried Chicken,Chicken Bucket Portion,790,45,52,2,3,49,14,2,140,1800
+KFC,Sandwich,Zinger Burger,650,32,50,7,3,35,11,1,95,1500
+KFC,Side,Mashed Potatoes Gravy,120,3,19,1,2,4,1,0,5,530
+KFC,Bowl,Famous Bowl,740,26,81,3,6,35,7,0.5,45,2350
+Starbucks,Coffee,Caramel Frappuccino,420,6,66,54,0,15,9,0,40,230
+Starbucks,Coffee,Caffe Latte Grande,190,13,19,18,0,7,4.5,0,30,170
+Starbucks,Bakery,Blueberry Muffin,370,5,54,33,2,15,4,0,55,380
+Starbucks,Breakfast,Bacon Gouda Sandwich,360,19,35,2,1,18,7,0,155,720
+Starbucks,Snack,Protein Box Eggs Cheese,470,23,40,20,5,25,9,0,215,460
+Pizza Hut,Pizza,Pepperoni Pizza Slice,310,14,33,4,2,13,5,0.5,25,640
+Pizza Hut,Pizza,Cheese Pizza Slice,290,12,34,3,2,11,4,0.2,20,580
+Pizza Hut,Pasta,Chicken Alfredo Pasta,720,28,68,8,4,36,14,1,120,1600
+Pizza Hut,Wings,Buffalo Wings,480,35,8,1,0,34,9,0,110,1940
+Pizza Hut,Dessert,Cinnamon Sticks,540,7,88,35,3,18,5,0,10,620
+Dominos,Pizza,Cheese Pizza Slice,290,12,34,3,2,11,4,0.2,20,580
+Dominos,Pizza,Pepperoni Pizza Slice,330,14,36,4,2,16,6,0.5,30,720
+Dominos,Pasta,Italian Pasta,690,26,64,7,5,34,13,1,110,1500
+Dominos,Sandwich,Chicken Bacon Ranch Sandwich,680,36,58,6,4,32,11,0.5,95,1420
+Dominos,Dessert,Chocolate Lava Cake,350,4,46,31,2,17,10,0,45,260
+Taco Bell,Taco,Crunchy Taco,170,8,13,1,3,9,3,0,25,310
+Taco Bell,Burrito,Bean Burrito,350,13,54,5,7,10,3,0,15,1040
+Taco Bell,Burrito,Beefy 5 Layer Burrito,490,18,64,5,6,18,7,0.5,35,1290
+Taco Bell,Nachos,Nachos BellGrande,740,20,82,6,10,38,7,0.5,45,1290
+Taco Bell,Drink,Mountain Dew Baja Blast,280,0,76,76,0,0,0,0,0,95
+Wendys,Burger,Dave Single,590,29,37,8,2,37,15,1.5,110,1030
+Wendys,Burger,Baconator,960,57,36,8,2,66,26,3,205,1540
+Wendys,Chicken,Spicy Chicken Sandwich,500,28,51,5,3,19,4,0,70,990
+Wendys,Salad,Apple Pecan Chicken Salad,540,31,42,31,6,23,8,0,110,1020
+Wendys,Dessert,Chocolate Frosty,470,13,76,65,0,12,8,0.5,45,220
+Chipotle,Bowl,Chicken Burrito Bowl,710,51,68,5,14,26,8,0,125,1530
+Chipotle,Burrito,Chicken Burrito,970,54,120,7,12,31,10,0,125,1970
+Chipotle,Taco,Steak Tacos,610,39,58,4,9,24,8,0,95,1420
+Chipotle,Salad,Sofritas Salad,445,23,47,6,13,19,3,0,0,1340
+Chipotle,Side,Chips Guacamole,770,10,85,4,13,47,7,0,0,760
